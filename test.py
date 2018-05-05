@@ -16,3 +16,4 @@ get_cels = requests.get(f'http://api.openweathermap.org/data/2.5/weather?id={cit
 # temp = respond.get('main').get('temp')
 #
 # print(f'В {city} {temp} градусов')
+
